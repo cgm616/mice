@@ -1,0 +1,32 @@
+- Microsoft WMO 1.1
+- Microsoft IMO 1.1
+- Microsoft IME 3.0
+- Microsoft Optical Mouse Blue
+- Zowie FK
+- Zowie AM
+- Zowie FK1
+- Zowie EC1 CL
+- Zowie EC1 eVo
+- Zowie EC2 CL
+- Zowie EC2 eVo
+- Razer Deathadder 3G
+- Razer Deathadder 3.5G
+- Razer Deathadder 2013
+- Razer Abyssus
+- Logitech G400
+- Logitech G400s
+- Logitech G502
+- Steelseries Kana V2
+- Steelseries Rival
+- Mionix Avoir 7000
+- Cooler Master Storm Spawn
+- Cooler Master Storm Alcor
+- Roccat Savu
+- Roccat Kone Pure Optical
+- Roccat Kone Pure Military 
+- Mad Catz R.A.T. 3
+- Corsair M45
+
+
+Sources:
+http://www.esreality.com/index.php?a=post&id=2024663
