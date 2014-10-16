@@ -55,7 +55,7 @@
 		</script>
 		<script type="text/javascript">
 			$(function(){ 
-				$('#CSVTable').CSVToTable('http://raw.githubusercontent.com/cgm616/mice/master/data.csv', {
+				$('#CSVTable').CSVToTable('data.csv', {
 					loadingText: 'Loading mouse data, please wait...  If not finished in 30 seconds, reload page and try again.',
 				}).bind("loadComplete",function() { 
 					$('#CSVTable').find('TABLE').tablesorter({
